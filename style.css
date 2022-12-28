@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+h2{
+    margin-top: 100px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: bold;
+    color: brown;
+
+}
+label{
+    font-size: 20px;
+    
+}
+button{
+    height: 30px;
+    width: auto;
+    font-size: 16px;
+    margin-top: 100px;
+    color:white;
+    background-color:rgb(183, 127, 127);
+   
+}
+p{
+    font-size: 30px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    color: red;
+
+
+}
